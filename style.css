@@ -18,14 +18,14 @@ nav{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 18px;
     background-color: white;
-    color: grey;
+    color: white;
 }
 .nav-link{
-    color: grey;
-    background-color: blueviolet;
+    color: white;
+    background-color: teal;
 }
 .nav-link:hover{
-    color:hotpink;
+    color:black;
 }
 .card-body{
     color: teal;
@@ -91,5 +91,6 @@ p{
 .portCard, .card-image-top{
     width: 90%;
     display:block;
+    height:auto;
 }
 }
